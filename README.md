@@ -36,7 +36,11 @@ Each node updates the internal PlannerState and transitions using a directed sta
 
 
 
-##Example Prompt Flow
+
+
+
+## Example Prompt Flow
+
 User: "I want to plan a day trip"
 
 App: "Which city do you want to visit?"
